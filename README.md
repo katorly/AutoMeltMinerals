@@ -14,10 +14,11 @@ Since you don't need to melt ores in a furnace, you will not acquire experience 
 The amount of minerals will have a chance to increase when using a pickaxe with Fortune enchantment, and ores will drop as usual when using a pickaxe with SilkTouch enchantment.
 
 ## Download
-<a href="https://github.com/katorlys/AutoMeltMinerals/archive/refs/heads/master.zip" target="_blank"><img align="center" width="60%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download%20Button.png"></a><br>
-- [For Minecraft Java 1.13-1.15.2](https://github.com/katorlys/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals(1.13-1.15.2).zip)<br>
-- [For Minecraft Java 1.16-1.16.5](https://github.com/katorlys/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals(1.16-1.16.5).zip)<br>
-- [For Minecraft Java 1.17+](https://github.com/katorlys/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals(1.17%2B).zip)<br>
+<a href="https://github.com/katorlys/AutoMeltMinerals/raw/master/Auto%20Melt%20Mineral.zip" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download1.png"></a><a href="https://github.com.cnpmjs.org/katorlys/AutoMeltMinerals/raw/master/Auto%20Melt%20Mineral.zip" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download2.png"></a><a href="https://hub.fastgit.org/katorlys/AutoMeltMinerals/raw/master/Auto%20Melt%20Mineral.zip" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download3.png"></a><br>
+Still unable to download? >> [Download entire repository](https://github.com.cnpmjs.org/katorlys/AutoMeltMinerals/archive/refs/heads/master.zip)
+- [For Minecraft Java 1.13-1.15.2](https://github.com/katorlys/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals(1.13-1.15.2).zip)
+- [For Minecraft Java 1.16-1.16.5](https://github.com/katorlys/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals(1.16-1.16.5).zip)
+- [For Minecraft Java 1.17+](https://github.com/katorlys/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals(1.17%2B).zip)
 
 ## Information
 <b>Data Pack Name:</b> Auto Melt Minerals<br>
