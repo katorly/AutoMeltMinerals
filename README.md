@@ -6,9 +6,13 @@
 This datapack allows you to get ingots when you mine ores that need melting.<br>
 It can automatically turn the following ores you mine into minerals, without a furnace:<br>
 - iron ore -> iron ingot
+- deepslate iron ore -> iron ingot
 - gold ore -> gold ingot
+- deepslate gold ore -> gold ingot
 - ancient debris -> netherite scrap
 - copper ore -> copper ingot
+- deepslate copper ore -> copper ingot
+
 
 Since you don't need to melt ores in a furnace, you will not acquire experience orbs when mining these ores.<br>
 The amount of minerals will have a chance to increase when using a pickaxe with Fortune enchantment, and ores will drop as usual when using a pickaxe with SilkTouch enchantment.
