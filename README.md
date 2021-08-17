@@ -1,7 +1,7 @@
 # Auto Melt Minerals
 ## Introduction
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/AutoMeltMinerals/screenshots/screenshot1.png">
+<img align="center" src="screenshots/screenshot1.png">
 
 This datapack allows you to get ingots when you mine ores that need melting.<br>
 It can automatically turn the following ores you mine into minerals, without a furnace:<br>
