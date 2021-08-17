@@ -22,7 +22,7 @@ The amount of minerals will have a chance to increase when using a pickaxe with 
 Still unable to download? >> [Download entire repository](https://github.com.cnpmjs.org/katorly/AutoMeltMinerals/archive/refs/heads/master.zip)
 - [For Minecraft Java 1.13-1.15.2](https://github.com/katorly/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals(1.13-1.15.2).zip)
 - [For Minecraft Java 1.16-1.16.5](https://github.com/katorly/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals(1.16-1.16.5).zip)
-- [For Minecraft Java 1.17+](https://github.com/katorly/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals).zip)
+- [For Minecraft Java 1.17+](https://github.com/katorly/AutoMeltMinerals/raw/master/Auto%20Melt%20Minerals.zip)
 
 ## Information
 <b>Data Pack Name:</b> Auto Melt Minerals<br>
